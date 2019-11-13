@@ -9,7 +9,7 @@ body {
 
 .navbar, footer {
     padding 1rem;
-    background-color: blue;
+    background-color: rgba(0, 0, 0, 1.0);
 }
 
 .hero-background-img {
@@ -22,7 +22,7 @@ body {
 .hero-background-img:after {
     content: "";
     position: absolute;
-    background-image: url("https://cdn.arstechnica.net/wp-content/uploads/2017/07/xplandscape.jpg");
+    background-image: url("http://digitalspyuk.cdnds.net/15/47/1280x800/gallery-1448016838-windows-95.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
